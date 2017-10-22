@@ -1,0 +1,22 @@
+{
+    "name": "black-radeon-theme",
+    "displayName": "Black-Radeon-Theme",
+    "description": "Dark theme for better usage and efficience on your editor",
+    "version": "1.0.0",
+    "publisher": "umonkeypub",
+    "engines": {
+        "vscode": "^1.17.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Black Radeon",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Black Radeon-color-theme.json"
+            }
+        ]
+    }
+}
