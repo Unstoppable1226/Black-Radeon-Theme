@@ -2,10 +2,24 @@
 	"name": "Black Radeon",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#1e1e1e",
-		"editor.foreground": "#d4d4d4",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"foreground": "#fff",
+        "activityBar.background": "#091414",
+        "activityBarBadge.background": "#9b59b6",
+        "activityBar.border": "#9b59b6",
+        "editor.background": "#080f0f",
+        "editor.selectionBackground": "#2c3e50",
+        "editorBracketMatch.border": "#c0392b",
+        "editorError.border": "#9E1616",
+        "editorSuggestWidget.background": "#0a0f0f",
+        "editorSuggestWidget.foreground": "#ecf0f1",
+        "input.border": "#1d1d1d",
+        "input.background": "#080f0f",
+        "input.foreground": "#fff",
+        "sideBar.background": "#080f0f",
+        "sideBar.foreground": "#ecf0f1",
+        "descriptionForeground": "#fff",
+        "editorCursor.foreground": "#ff6600",
+        "textCodeBlock.background": "#fff",
 	},
 	"tokenColors": [
 		{
