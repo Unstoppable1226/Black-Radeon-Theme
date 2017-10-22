@@ -5,8 +5,8 @@ Made for Visual Studio Code.
 
 ## Screenshots
 ### Typescript File
-![Alt text](https://drive.google.com/open?id=0BzVdoo_pN0vBWGJnTFBMSE9TcVE "Typescript File")
+![Github Source](https://github.com/Unstoppable1226/Black-Radeon-Theme/blob/master/theme.PNG "Typescript File")
 
 ### JSON File
-![Alt text](https://drive.google.com/open?id=0BzVdoo_pN0vBWGJnTFBMSE9TcVE "JSON File")
+![Github Source](https://github.com/Unstoppable1226/Black-Radeon-Theme/blob/master/theme2.PNG "JSON File")
 
