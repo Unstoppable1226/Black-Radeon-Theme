@@ -8,3 +8,12 @@
 
 ## [1.2.0]
 - Change some colors
+
+## [1.3.0]
+- Change some colors
+
+## [1.4.0]
+- Change some colors
+
+## [1.5.0]
+- Change some colors
