@@ -85,7 +85,6 @@
         "editor.selectionBackground": "#2c3e50",
         "editorBracketMatch.border": "#c0392b",
         "editorError.border": "#9E1616",
-        
         "input.border": "#1d1d1d",
         "input.background": "#080f0f",
         "input.foreground": "#fff",
@@ -120,7 +119,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#fff"
 			}
 		},
 		{
@@ -139,18 +138,35 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#d13a56"
 			}
 		},
 		{
-			"name": "Keyword, Storage",
+			"name": "Keyword Operator",
 			"scope": [
-				"keyword",
+				"keyword.operator"
+			],
+			"settings": {
+				"foreground": "#ff6600"
+			}
+		},
+		{
+			"name": "Keyword Logical",
+			"scope" : [
+				"operator.logical"
+			],
+			"settings": {
+				"foreground": "#ca1212"
+			}
+		},
+		{
+			"name": "Storage",
+			"scope": [
 				"storage.type",
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#2ecc71"
 			}
 		},
 		{
@@ -194,11 +210,20 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#27ae60"
 			}
 		},
 		{
 			"name": "Block Level Variables",
+			"scope": [
+				"meta.block variable.other"
+			],
+			"settings": {
+				"foreground": "#f07178"
+			}
+		},
+		{
+			"name": "Meta class",
 			"scope": [
 				"meta.block variable.other"
 			],
@@ -213,7 +238,7 @@
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#aaf071"
 			}
 		},
 		{
@@ -245,7 +270,7 @@
 			],
 			"settings": {
 				"fontStyle": "normal",
-				"foreground": "#C3E88D"
+				"foreground": "#cee2b1"
 			}
 		},
 		{
@@ -295,7 +320,7 @@
 				"variable.other.class.js"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#fff"
 			}
 		},
 		{
@@ -305,7 +330,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FF5370"
+				"foreground": "#fff"
 			}
 		},
 		{
@@ -325,7 +350,7 @@
 				"variable.function.constructor"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#9fa07b"
 			}
 		},
 		{
@@ -334,7 +359,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#4cc03c"
 			}
 		},
 		{

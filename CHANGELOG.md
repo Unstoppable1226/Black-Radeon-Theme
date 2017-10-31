@@ -17,3 +17,9 @@
 
 ## [1.5.0]
 - Change some colors
+
+## [1.6.0]
+- Fix colors theme
+
+## [1.7.0]
+- Fix colors theme
