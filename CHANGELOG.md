@@ -23,3 +23,9 @@
 
 ## [1.7.0]
 - Fix colors theme
+
+## [1.8.0]
+- Fix colors theme
+
+## [2.0.0]
+- Theme new version (some new colors)
